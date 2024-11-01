@@ -17,3 +17,7 @@ Este repositório foi criado como parte de um desafio para aprender a usar o Git
 ## Contribuições
 
 Todos são bem-vindos para colaborar!
+
+## Contatos
+- Github: [Eduardo Roque](https://github.com/rockyedu)
+- Github: [Gabriela Fernanda](https://github.com/gabriela-fernanda)
