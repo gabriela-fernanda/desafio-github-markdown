@@ -2,6 +2,13 @@
 
 Este repositório foi criado como parte de um desafio para aprender a usar o GitHub, Markdown e colaboração.
 
+## Pré-requisitos
+
+Antes de começar, certifique-se de ter o seguinte instalado:
+- [Git](https://git-scm.com/): para clonar e gerenciar o repositório localmente.
+- [GitHub](https://github.com/): necessário para colaboração e envio de _pull requests_.
+
+
 ## Instruções
 
 1. Clone o repositório.
